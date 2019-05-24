@@ -1,4 +1,1 @@
-01
-02
-03
-04
+This is the initial commit app.component.ts MASTER

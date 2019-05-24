@@ -1,4 +1,1 @@
-import {bootstrap}    from 'angular2/platform/browser'
-import {AppComponent} from './app.component'
-
-bootstrap(AppComponent);
+This is the initial commit boot.js MASTER
